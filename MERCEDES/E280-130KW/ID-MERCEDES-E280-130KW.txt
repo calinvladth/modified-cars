@@ -1,0 +1,9 @@
+HW: 
+SW: 1037372433
+VIN nr.: WDB2110231A769679
+SW ver.: 
+Spare: CR30-648-C6D3-W211-ME0405-EU4LR130kW-003        
+Engine: 
+HW Ver.: 
+SW upg.: 1037375639
+Installation: 

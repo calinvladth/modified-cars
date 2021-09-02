@@ -1,0 +1,9 @@
+HW: 
+SW: 6576286164
+VIN nr.: WVWZZZ3CZ7E098327
+SW ver.: 
+Spare: 
+Engine: R4 2.0l PPD1.2
+HW Ver.: 
+SW upg.: 03G906018EM 1184
+Installation: 
