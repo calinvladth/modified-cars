@@ -1,0 +1,9 @@
+HW: 012BE10671
+SW: AP43NCLAP30J
+VIN nr.: W0L0AHL3592005496
+SW ver.: 
+Spare: 
+Engine: Z17DTJ
+HW Ver.: DECe01    
+SW upg.: 730TJ3S1
+Installation: DENSO SH7058
